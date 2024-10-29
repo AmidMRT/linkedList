@@ -1,0 +1,1 @@
+my first attempt at making linked lists foe Odin Project. this was fun and different.
